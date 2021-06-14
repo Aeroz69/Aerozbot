@@ -1,5 +1,5 @@
 # Aerozbot
 If you need help for the bot, you can join 
-[ https://discord.gg/8maRgQ62uv ]
-or add Aeroz#9793 on discord.
+[ https://discord.gg/jMzgu6Ajxb ]
+or add Aeroz#0666 on discord.
 Code SCH #ad
