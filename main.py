@@ -10,14 +10,14 @@ if not os.getenv('DEVICE_ID') and \
           "If you're confused, re-watch the tutorial.")
     sys.exit()
 
-os.system('pip install -U Aerozbot')
+os.system('pip install -U schbot')
 os.system('clear')
 
-import Aerozbot
+import schbot
 
 asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
 
-client = Aerozbot.PartyBot(
+client = schbot.PartyBot(
     device_id=os.getenv('DEVICE_ID'),
     account_id=os.getenv('ACCOUNT_ID'),
     secret=os.getenv('SECRET')
