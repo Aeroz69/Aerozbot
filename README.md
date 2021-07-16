@@ -8,4 +8,4 @@ aller dans le cadena a droite et cliquer sur open rawn editor
 coller le secret venant du site de cousin (https://aerozbot.alwaysdata.net/)
 aller dans le info.json et remplacer code sch par ton speudo ftn (avec les caractères spéciaux et tout)
 pour mettre ton bot h24 en ligne
-https://uptimerobot.com/dashboard
+https://uptimerobot.com/dashboard 
